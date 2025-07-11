@@ -22,7 +22,8 @@ git push origin main|master
 git restore .   | Для сброса того что мы написали в файле
 git reset .      | Для удаления из буфера обмена после команды git add
 
-
+git branch     | From check branch
+git branch branch_name   | From create branch
 
 feat: added auth user
 update: reset password user
