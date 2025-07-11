@@ -29,4 +29,17 @@ feat: added auth user
 update: reset password user
 fix: bag create news in top bar
 
+branch rules ++++++
 
+feat/name_branch
+fix/name_branch
+hot_fix/name_branch
+update/name_branch
+
+
+
+stage | develop
+
+realise_1.0.0
+
+production
