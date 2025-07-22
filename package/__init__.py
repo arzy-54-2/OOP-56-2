@@ -1,7 +1,8 @@
-from .module1 import Test1
-from .module2 import Test2
+from .module1 import *
+from .module2 import *
 
 __all__ = (
     "Test1",
-    "Test2"
+    "Test2",
+    "Test3"
 )

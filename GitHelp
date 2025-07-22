@@ -25,6 +25,8 @@ git reset .      | Для удаления из буфера обмена пос
 git branch     | Для просмотра веток
 git branch branch_name   | Для создания веток
 
+git switch  branch_name   | Для переключения веток
+
 git clone link_to_repo  | для клонирования проекта из GitHub
 
 
@@ -64,3 +66,8 @@ touch file_name  |  команды для создания файла
 source .venv/bin/activate
 
 deactivate
+
+
+py
+python       -m venv my_venv
+python3
