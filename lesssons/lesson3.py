@@ -1,5 +1,4 @@
 # Инкапсуляция
-import random
 
 class BankAccount:
     # Атрибут класса
@@ -18,6 +17,7 @@ class BankAccount:
 
     def __init__(self, user, balance, password):
         # Атрибуты экземпляра класса
+        self.__def_pass = None
         self.user = user
         self._balance = balance # Защищенный атрибут
         self.__password = password # Приватный атрибут
