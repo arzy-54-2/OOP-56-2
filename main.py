@@ -18,3 +18,23 @@
 from package.module1 import *
 
 print(random.randint(1, 10))
+
+
+
+while True:
+
+   n1 =  [1,2,3]
+   n2 =  [1,2,3]
+   action = input('')
+
+
+
+def test()
+
+    a = link
+    b = link
+    c = link
+
+test()
+
+
